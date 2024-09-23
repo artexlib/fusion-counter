@@ -1,0 +1,14 @@
+{
+  "name": "fusion-counter",
+  "version": "1.0.0",
+  "description": "Tracks Sorcerer Fusion casts during Mana Burst.",
+  "main": "lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArtexLib",
+  "license": "MIT"
+}

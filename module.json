@@ -1,0 +1,14 @@
+{
+    "name": "fusion-counter",
+    "author": "ArtexLib",
+    "description": "Tracks Sorcerer Fusion casts during Mana Burst.",
+    "version": "1.0.0",
+    "options": {
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "./lib/settings/settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/artexlib/fusion-counter/main/"],
+    "supportUrl": "https://github.com/artexlib/fusion-counter/issues/",
+    "disableAutoUpdate": false
+}
